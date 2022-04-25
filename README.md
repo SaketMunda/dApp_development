@@ -12,10 +12,12 @@ In this tutorial we are trying to design a smart contract which helps to registe
 
 > Ballot - Smart Contract
 
+Name of the smart contract
 ```
-// name of the smart contract
 Ballot
-// Data
+```
+Data
+```
 struct Voter {
  uint weight;
  bool Voted;
@@ -24,13 +26,16 @@ struct Voter {
 address chairperson;
 mapping(address => Voter) voters;
 proposal[]
-// Modifiers
+```
+Modifiers
+```
 modifier onlyOwner 
-// Operations
+```
+Operations
+```
 function Ballot() // constructor
 function register(..) onlyOwner
 function vote(..)
-
 ```
 
 ## Steps to Develop a Dapp
