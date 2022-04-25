@@ -1,5 +1,5 @@
-# Solidity Tutorials
-Demo projects to get an overview of solidity, truffle and ethereum
+# Dapp Development Process
+Demo projects to get an overview of dApp development, truffle commands and ethereum
 
 
 ## Setup Local Environment
