@@ -35,11 +35,11 @@ function vote(..)
 
 ## Steps to Develop a Dapp
 
-> Create a directory ; initialize for various components of the dapp using "**truffle init**"
-> Create the contracts .sol files in the contracts directory. Compile using "**truffle compile**"
-> Generate the test blockchain accounts using "**truffle develop**"
-> Deploy the compiled contracts to test blockchain "**truffle migrate**"
-> Add the test files for testing the functions of the contracts "**truffle test**"
+[x] Create a directory ; initialize for various components of the dapp using "**truffle init**"
+[x] Create the contracts .sol files in the contracts directory. Compile using "**truffle compile**"
+[x] Generate the test blockchain accounts using "**truffle develop**"
+[x] Deploy the compiled contracts to test blockchain "**truffle migrate**"
+[] Add the test files for testing the functions of the contracts "**truffle test**"
 
 
 
