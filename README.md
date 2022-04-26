@@ -71,3 +71,8 @@ Any compilation errors can be seen during this process and after a successful co
 ### truffle migrate --reset
 - This command wil migrate the deployed contracts into the test chain and ready to use to initiate the transactions
 - Since we are running command on development environment, we can always use --reset to start transactions from the begining and refresh the smart contracts. But in production environment, _once a smart contract is deployed we can't change or reset it_.
+
+
+### truffle test
+- This will run all the tests written in test.js
+- before running this command, make sure to run truffle develop
