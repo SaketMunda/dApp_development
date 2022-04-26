@@ -45,7 +45,7 @@ function vote(..)
 - [x] Create the contracts .sol files in the contracts directory. Compile using "**truffle compile**"
 - [x] Generate the test blockchain accounts using "**truffle develop**"
 - [x] Deploy the compiled contracts to test blockchain "**truffle migrate**"
-- [ ] Add the test files for testing the functions of the contracts "**truffle test**"
+- [x] Add the test files for testing the functions of the contracts "**truffle test**"
 
 
 ### truffle init
