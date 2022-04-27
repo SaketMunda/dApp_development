@@ -124,8 +124,8 @@ Blockchain Backend
 > src > js > app.js
 
 This file instantiate the objects needed for the web client to communicate with the blockchain node.
-  > First, we need to expose the blockchain accounts created through web3 provider object of the app.
-  > Second, we need to tell the web3 where to find the smart contract artifacts. 
+  - > First, we need to expose the blockchain accounts created through web3 provider object of the app.
+  - > Second, we need to tell the web3 where to find the smart contract artifacts. 
 
 
 ### Steps involved in this demo
