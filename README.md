@@ -24,7 +24,7 @@ This demo will help to understand dapp development with the integration of user 
 ## DEMO 3 - Coin
 This demo will help to understand dapp development with event handling.
 
-Events are useful for :
+### Events are useful for :
 - Pushing Notification
 - Logging activities
 - Asynchronous operations between sender and reciever
